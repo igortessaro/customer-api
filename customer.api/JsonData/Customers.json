@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "firstName": "Fulano",
+    "lastName": "Silva",
+    "phone": "51999999999",
+    "lastPurchase": "08/01/2020",
+    "genderId": "1",
+    "classificationId": "2",
+    "regionId": "4",
+    "stateId": "23",
+    "cityId": "12"
+  },
+  {
+    "id": 2,
+    "firstName": "Beltrano",
+    "lastName": "Santos",
+    "phone": "51888888888",
+    "lastPurchase": null,
+    "genderId": "1",
+    "classificationId": "1",
+    "regionId": "3",
+    "stateId": "19",
+    "cityId": "321"
+  },
+  {
+    "id": 3,
+    "firstName": "Ciclano",
+    "lastName": "Silveira",
+    "phone": "51989898989",
+    "lastPurchase": "11/03/2020",
+    "genderId": "3",
+    "classificationId": "3",
+    "regionId": "3",
+    "stateId": "18",
+    "cityId": "300"
+  }
+]
